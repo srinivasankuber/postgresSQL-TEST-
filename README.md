@@ -1,0 +1,2 @@
+# postgresSQL-TEST-
+PRACTICING  postgreSQL AS DAILY TEST
